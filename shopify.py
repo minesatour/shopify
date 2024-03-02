@@ -789,9 +789,4 @@ print("All bots have completed")
 
 # print(response_final.text)
 
-￼
-
-ReplyForward
-
-Add reaction
 
